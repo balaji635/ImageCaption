@@ -1,7 +1,0 @@
-src/venv/
-src/__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.npz
-src/outputs/
